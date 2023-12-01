@@ -5,7 +5,7 @@
 run "docker-compose up"
 
 ### To forecast
-Send a post request at "http://localhost:5000/predict" with the request body similar to the following example.
+Send a POST request at "http://localhost:5000/predict" with the request body similar to the following example.
 
 ```JSON
 {
