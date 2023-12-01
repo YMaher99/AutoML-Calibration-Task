@@ -2,7 +2,7 @@
 
 ### To run the server
 
-run "docker-compose up"
+run ```docker-compose up```
 
 ### To forecast
 Send a POST request at "http://localhost:5000/predict" with the request body similar to the following example.
